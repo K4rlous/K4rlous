@@ -19,7 +19,7 @@ Currently focused on learning more about **Java**, **Spring Boot**, and **MySQL*
 
 ![Portuguese](https://img.shields.io/badge/Portuguese-Native-green?style=for-the-badge&logo=translate&logoColor=white)  
 ![English](https://img.shields.io/badge/English-C2%20Proficient-blue?style=for-the-badge&logo=translate&logoColor=white)  
-📜 [EF SET English Certificate – Score: 74/100 (C2 Proficient)](https://cert.efset.org/dj3QGc)
+[![EF SET - C2 Proficient](https://img.shields.io/badge/EF%20SET-74%2F100%20(C2%20Proficient)-blue?style=for-the-badge&logo=ef&logoColor=white)](https://cert.efset.org/dj3QGc)
 
 
 
