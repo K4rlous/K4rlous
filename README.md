@@ -17,9 +17,9 @@ Currently focused on learning more about **Java**, **Spring Boot**, **MySQL**, a
 ## Libraries and Frameworks 📚  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
-![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge)  
 ![JDBC](https://img.shields.io/badge/JDBC-Blue?style=for-the-badge)  
 ![Hibernate](https://img.shields.io/badge/Hibernate-593d91?style=for-the-badge)  
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge)  
  
 
 ## Databases 🎲  
