@@ -16,12 +16,11 @@ Currently focused on learning more about **Java**, **Spring Boot**, **MySQL**, a
 
 ## Libraries and Frameworks 📚  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
-![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)  
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge)  
 ![JDBC](https://img.shields.io/badge/JDBC-Blue?style=for-the-badge)  
 ![Hibernate](https://img.shields.io/badge/Hibernate-593d91?style=for-the-badge)  
-  
- 
+
 
 ## Databases 🎲  
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)  
@@ -46,4 +45,4 @@ Currently focused on learning more about **Java**, **Spring Boot**, **MySQL**, a
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=K4rlous&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)  
 
 ## Most Used Languages ☕  
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=K4rlous&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)  
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=K4rlous&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
