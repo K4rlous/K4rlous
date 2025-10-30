@@ -42,8 +42,12 @@ Currently focused on learning more about **Java**, **Spring Boot**, **MySQL**, a
 ![English](https://img.shields.io/badge/English-C2%20Proficient-blue?style=for-the-badge&logo=translate&logoColor=white)  
 [![EF SET - C2 Proficient](https://img.shields.io/badge/EF%20SET-74%2F100%20(C2%20Proficient)-blue?style=for-the-badge&logo=ef&logoColor=white)](https://cert.efset.org/dj3QGc)
 
-## GitHub Stats 📊  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=K4rlous&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)  
+## Projects
 
-## Most Used Languages ☕  
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=K4rlous&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+### 🍔 BMI Calculator (JavaFX) – 2025
+A desktop application to calculate the **Body Mass Index (BMI)** with a graphical user interface.  
+- **Technologies:** Java, JavaFX  
+- **Features:** Input fields for weight and height, automatic BMI calculation, classification according to the [World Health Organization (WHO)](https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight#BMI), error handling for invalid inputs, and a clickable link to the official WHO BMI table.  
+- **Repository:** [https://github.com/K4rlous/Java-Projects/tree/main/BMICalculator](https://github.com/K4rlous/Java-Projects/tree/main/BMICalculator)
+
+---
