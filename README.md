@@ -51,3 +51,16 @@ A desktop application to calculate the **Body Mass Index (BMI)** with a graphica
 - **Repository:** [https://github.com/K4rlous/Java-Projects/tree/main/BMICalculator](https://github.com/K4rlous/Java-Projects/tree/main/BMICalculator)
 
 ---
+
+### ⌚ Digital Watch (JavaFX) – 2025
+A simple digital clock application with real-time display.  
+- **Technologies:** Java, JavaFX  
+- **Features:** Real-time clock display in 24-hour format (HH:mm:ss), automatic updates every second using JavaFX Timeline animation, minimalist black and yellow interface, and lightweight desktop application.  
+- **Repository:** [https://github.com/K4rlous/Java-Projects/tree/main/DigitalWatch](https://github.com/K4rlous/Java-Projects/tree/main/DigitalWatch)
+
+---
+
+### 📂 [View All My Projects](https://github.com/K4rlous/Java-Projects)
+Explore my complete collection of Java projects, including native applications and frameworks like Spring.
+
+---
