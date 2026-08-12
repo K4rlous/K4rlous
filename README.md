@@ -44,7 +44,7 @@ Currently focused on learning more about **Java**, **Spring Boot**, **MySQL**, a
 ## Featured Projects
 
 ### 📂 [View All My Projects](https://github.com/K4rlous/Java-Projects)
-Explore my complete collection of Java projects, including native applications and frameworks like Spring.
+Explore my complete collection of projects, including native applications and frameworks like Spring.
 
 ---
 
